@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"Rectangle","l":"calculateArea()"},{"p":"org.example","c":"Rectangle","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"org.example","c":"Rectangle","l":"Rectangle(double, double)","u":"%3Cinit%3E(double,double)"}];updateSearchResults();
